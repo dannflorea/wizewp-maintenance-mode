@@ -1,0 +1,152 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  height: 100%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.wizemamo-container {
+  background: rgba(0, 0, 0, 0.24);
+  padding: 3rem;
+  border-radius: 10px;
+  max-width: 90%;
+  margin: 2rem;
+}
+
+.wizemamo-container h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.wizemamo-container p {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.wizemamo-button {
+  padding: 0.8rem 1.5rem;
+  font-size: 1rem;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 6px;
+  display: inline-block;
+  border: none;
+  margin: 15px 0;
+}
+.wizemamo-logo {
+    max-height: 80px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.wizemamo-return-message {
+  font-size: 18px;
+  font-weight: 600;
+  color: #ffffff;
+  background: rgba(0, 0, 0, 0.3);
+  padding: 12px 20px;
+  border-radius: 8px;
+  display: inline-block;
+  margin-top: 20px;
+  animation: fadeIn 0.6s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.wizemamo-password-form {
+  max-width: 400px;
+  margin: 40px auto 0;
+  text-align: center;
+}
+
+.wizemamo-password-form input[type="password"] {
+  width: 100%;
+  padding: 12px 15px;
+  font-size: 1rem;
+  border-radius: 6px;
+  border: none;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+}
+
+.wizemamo-password-form button {
+  width: 100%;
+  padding: 14px;
+  font-size: 1rem;
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  display: block;
+  cursor: pointer;
+  box-sizing: border-box;
+  transition: background 0.3s ease;
+}
+
+.wizemamo-password-form button:hover {
+  background-color: #cc0000;
+}
+.wizemamo-error {
+    color: red;
+    margin-top: 10px;
+}
+.wizemamo-countdown-container {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.wizemamo-countdown-label {
+    font-size: 1.2em;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.wizemamo-countdown {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    color: white;
+}
+
+.wizemamo-countdown-item {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 15px 20px;
+    border-radius: 10px;
+    min-width: 80px;
+}
+
+.wizemamo-countdown-item strong {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.wizemamo-countdown-item span {
+    font-size: 0.9em;
+    opacity: 0.8;
+}
+.wizemamo-container p.sponsored {
+    font-size: 14px;
+    margin-top: 2rem;
+}
+.wizemamo-container p.sponsored a{
+    text-decoration: none;
+    color: white;
+}
+.wizemamo-container h1, .wizemamo-container p{
+    color: white;
+}

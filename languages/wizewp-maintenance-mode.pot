@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WizeWP Maintenance Mode\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: \n"
+
+msgid "Plugin Settings"
+msgstr ""
+
+msgid "Show maintenance page for visitors"
+msgstr ""
+
+msgid "Change logo"
+msgstr ""
+
+msgid "Choose logo"
+msgstr ""
+
+msgid "Change image"
+msgstr ""
+
+msgid "Choose image"
+msgstr ""
+
+msgid "Require password to view site"
+msgstr ""
+
+msgid "Users must enter this password to bypass the maintenance page."
+msgstr ""
+
+msgid "Show countdown until site is back"
+msgstr ""
+
+msgid "Target date & time for the countdown."
+msgstr ""
+
+msgid "This CSS will be injected on the maintenance page."
+msgstr ""
+
+msgid "Maintenance Mode"
+msgstr ""
+
+msgid "Maintenance Mode"
+msgstr ""
+
+msgid "Save settings"
+msgstr ""
+
+msgid "WizeWP"
+msgstr ""
+
+msgid "WizeWP"
+msgstr ""
+
+msgid "Our Plugins"
+msgstr ""
+
+msgid "This website is under maintenance"
+msgstr ""
+
+msgid "This website is under maintenance"
+msgstr ""
+
+msgid "We'll be back soon with something new!"
+msgstr ""
+
+msgid "This website is under maintenance"
+msgstr ""
+
+msgid "We'll be back soon with something new!"
+msgstr ""
+
+msgid "Enter the password to access the site:"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Incorrect password. Please try again."
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
